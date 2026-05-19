@@ -4,7 +4,7 @@ import calculator.utils.InputHelper;
 
 public class Main {
 
-    static void main() {
+    public static void main(String[] args) {
 
         Calculator calculator = new Calculator();
 
