@@ -3,7 +3,7 @@ package calculator.operations;
 public class Addition {
 
     public static double calculate(double a, double b) {
-        System.out.printf("Addition von %d und %d", a, b);
+        System.out.println("Addition von " +a+ " und " +b);
         return a + b;
     }
 }
